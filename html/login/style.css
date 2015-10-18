@@ -18,6 +18,7 @@ header {
 	background: #fff;
 	color: #444;
 	margin-right: 10pt;
+	box-shadow: 0 0 4pt #666;
 }
 .login a:hover {
 	background: #06f;
