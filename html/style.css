@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	background: #ddd;
+}
+header {
+	font-family: 'Playfair Display';
+	font-weight: 900;
+}
+h1 {
+	font-family: 'Roboto Condensed';
+	font-weight: 400;
+}

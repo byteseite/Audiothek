@@ -1,0 +1,25 @@
+header {
+	font-size: 90pt;
+	background: #06f;
+	color: white;
+	text-align: center;
+	padding: 5vh 0;
+}
+.login {
+	margin: calc( 35vh - 100pt ) calc( 50vw - 330pt );
+}
+.login a {
+	display: inline-block;
+	height: 200pt; width: 200pt;
+	border-radius: 100pt;
+	text-align: center;
+	line-height: 200pt;
+	font-family: 'Roboto Condensed'; font-weight: 400; text-decoration: none; font-size: 30pt;
+	background: #fff;
+	color: #444;
+	margin-right: 10pt;
+}
+.login a:hover {
+	background: #06f;
+	color: #fff;
+}
